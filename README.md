@@ -93,3 +93,4 @@ dual licensed as above, without any additional terms or conditions.
 [crates-io-badge]: https://img.shields.io/crates/v/ublox-short-range-rs.svg?maxAge=3600
 [crates-io-download]: https://crates.io/crates/ublox-short-range-rs
 [crates-io-download-badge]: https://img.shields.io/crates/d/ublox-short-range-rs.svg?maxAge=3600
+
